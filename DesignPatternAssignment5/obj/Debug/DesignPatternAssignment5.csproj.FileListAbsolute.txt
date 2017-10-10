@@ -1,0 +1,7 @@
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\bin\Debug\DesignPatternAssignment5.exe.config
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\bin\Debug\DesignPatternAssignment5.exe
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\bin\Debug\DesignPatternAssignment5.pdb
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\obj\Debug\DesignPatternAssignment5.csprojResolveAssemblyReference.cache
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\obj\Debug\DesignPatternAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\obj\Debug\DesignPatternAssignment5.exe
+C:\Users\atahj\source\repos\DesignPatternAssignment5\DesignPatternAssignment5\obj\Debug\DesignPatternAssignment5.pdb
